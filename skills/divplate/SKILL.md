@@ -30,7 +30,7 @@ The user can also lay a page out by hand at https://divplate.com/build and copy 
 ## Building with Divplate
 
 - Read `components/blocks/AGENTS.md` and follow it. The first install adds it.
-- Search: `npx shadcn@4.21.4 search @divplate -q "pricing three tiers" -t block`
+- Choose blocks from their category's index, as above: it lists every block with its full description.
 - Install: `npx shadcn@4.21.4 add @divplate/hero-12 @divplate/pricing-02`, several blocks in one command.
 - Install a block with the command. Never rebuild one from its preview or a screenshot.
 - Write the user's product into every text. Never invent testimonials, customer names, logos, numbers or prices: where the user gave none, leave that section out, or keep the sample text and say which texts are still samples.
